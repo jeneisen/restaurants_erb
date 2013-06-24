@@ -1,0 +1,6 @@
+#pseudo plan
+
+#1. Cities have restaurant(s)
+#2. Need a city class and restaurant class
+#3. ERB template
+#4. app file -- that runs everything else
